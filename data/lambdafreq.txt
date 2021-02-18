@@ -1,0 +1,5 @@
+"Rating of Personnel Department";	"Frequency"
+Poor	; 38
+Satisfactory	; 32
+Good	; 25
+Total	; 95

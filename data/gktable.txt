@@ -1,0 +1,6 @@
+學生; 數學; 英文
+Ariel ;  4 ; 2
+Ben; 3;3
+Carl; 2; 5
+Danny; 1; 4
+Elaine; 5; 1

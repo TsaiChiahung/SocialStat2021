@@ -1,0 +1,7 @@
+"Rating of  Department";	"Modal Category"	; "Right Guesses"	; "Wrong Guesses"
+Police (N=30)	;"Good";	15;	15
+Fire (N=30)	; "Poor";	15;	15
+Teacher (N=25)	; "Satisfactory";	15;	10
+Military (N=10)	; "Poor" ;	8	; 2
+Total;		; 53;	42
+
